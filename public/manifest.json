@@ -1,0 +1,10 @@
+{
+  "short_name": "Kanekṣanlu",
+  "name": "Telugu NYT Connections",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
